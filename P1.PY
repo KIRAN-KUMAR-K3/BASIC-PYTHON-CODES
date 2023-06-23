@@ -1,0 +1,5 @@
+name=input("enter your name:")
+age=input("enter your age:")
+phone=input("enter your phonenumber:")
+usn=input("enter your USN:")
+print(name,age,phone,usn)
